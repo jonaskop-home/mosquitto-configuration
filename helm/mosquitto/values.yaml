@@ -1,0 +1,9 @@
+image:
+  registry: docker.io
+  repository: eclipse-mosquitto
+  tag: "2.0.16"
+
+config:
+  mosquitto:
+    username: "not_set"
+    password: "not_set"
